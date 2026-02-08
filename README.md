@@ -1,7 +1,6 @@
 - 👋 Opa! Eu sou @Mohamad-Aassaf
 - 👀 Sou interessado em jogos, programação e história!
-- 🌱 Java, HTML, CSS, JS, Lua, MySQL
-- ⚡ Fun fact: Amo história!
+- 🌱 Java, HTML, CSS, JS, Lua, MySQL, PostgreSQL, ReactJS
 
 <!---
 Mohamad-Aassaf/Mohamad-Aassaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
