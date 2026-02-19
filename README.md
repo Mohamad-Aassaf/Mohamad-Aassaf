@@ -1,8 +1,44 @@
-- 👋 Opa! Eu sou @Mohamad-Aassaf
-- 👀 Sou interessado em jogos, programação e história!
-- 🌱 Java, HTML, CSS, JS, Lua, MySQL, PostgreSQL, ReactJS
+# 👋 Hi, I'm Mohamad Assaf
 
-<!---
-Mohamad-Aassaf/Mohamad-Aassaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Backend Developer 
+
+🌎 Brazil
+
+🎓 Technical student in Systems Analysis and Development - IFsul Campus Sapucaia do Sul
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+- Java
+- Spring Boot
+- Hibernate
+- JPA
+- PHP
+
+### Frontend
+- HTML, CSS
+- JS
+- TailwindCSS
+
+### Database
+- PostgreSQL
+- MySQL
+
+### Tools
+- Git & GitHub
+- IntelliJ IDEA
+- VS Code IDEA
+- PgAdmin4
+- MySQL Workbench
+- Postman
+- Maven
+- XAMPP
+
+---
+
+## 📫 Contact
+
+- Email: mohamad1mohd@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mohamad-assaf-91aba22a4
